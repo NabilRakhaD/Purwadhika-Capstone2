@@ -3,6 +3,7 @@
 <h3>By Nabil Rakha Dwitya
 
 <h3>Dataset --> Airbnb Listing Bangkok
+<h3>Tableau Viz</h3> 
 
 [Tableau Link](#https://public.tableau.com/app/profile/nabil.rakha/viz/Project2_17360103258110/Story1)
 
