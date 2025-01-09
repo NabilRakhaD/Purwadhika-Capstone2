@@ -5,7 +5,7 @@
 <h3>Dataset --> Airbnb Listing Bangkok
 <h3>Tableau Viz</h3> 
 
-[](#https://public.tableau.com/app/profile/nabil.rakha/viz/Project2_17360103258110/Story1)
+[](https://public.tableau.com/app/profile/nabil.rakha/viz/Project2_17360103258110/Story1)
 
 ------
 
