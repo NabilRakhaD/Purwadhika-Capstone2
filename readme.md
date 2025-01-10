@@ -3,11 +3,13 @@
 <h3>By Nabil Rakha Dwitya
 
 <h3>Dataset --> Airbnb Listing Bangkok
-<h3>Tableau --> [Tableau Link](https://public.tableau.com/app/profile/nabil.rakha/viz/Project2_17360103258110/Story1)
+<h3>Tableau Viz</h3> 
+
+https://public.tableau.com/app/profile/nabil.rakha/viz/Project2_17360103258110/Story1
 
 ------
 
-<h2>Business Problem Understanding
+<h2>Business Problem
 
 <h5>Berjalan-jalan atau traveling merupakan hal yang sering dilakukan oleh orang pada saat ini, terutama bagi orang-orang yang ingin menikmati wisata-wisata yang ada pada suatu kota di negara tertentu. Dengan hal seperti ini, muncullah sebuah bisnis yang bernama Airbnb. Airbnb merupakan sebuah platform online yang menyediakan sebuah layanan akomodasi bagi pengguna untuk menyewakan properti. Airbnb ini memungkinkan para penyedia atau host untuk menyediakan tempat tinggal, baik seperti rumah, hotel, apartemen, dan lain-lain kepada pengguna nantinya yang bisa mereka sewa dan mereka huni selama beberapa hari. Airbnb telah menjadi platform pilihan bagi para wisatawan yang mencari akomodasi unik dengan harga terjangkau. Namun, seiring dengan bertambahnya jumlah hunian, para host menghadapi berbagai tantangan, seperti menentukan harga yang kompetitif, memahami kondisi pasar, dan mengoptimalkan hunian mereka untuk meningkatkan tingkat hunian. Analisis ini bertujuan untuk memberikan wawasan berbasis data guna membantu para host di Bangkok memahami dinamika pasar yang kompleks. Dengan meneliti faktor-faktor penting seperti persaingan lokasi, dampak geografis terhadap harga, tingkat hunian, serta pengaruh ulasan, analisa ini menawarkan strategi praktis bagi para host untuk meningkatkan kualitas hunian mereka, menarik lebih banyak tamu, dan meningkatkan pendapatan. <br>
 
